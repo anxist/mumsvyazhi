@@ -1,0 +1,18 @@
+@media (max-width: 1300px){
+    .duble-block{
+        display: flex;
+        flex-direction: column;
+        max-height: 1500px;
+        height: 100%;
+    }
+    .cart-main{
+        max-height: 1300px;
+        height: 100%;
+    }
+    .product-list-cart{
+        height: 500px ;
+    }
+    .price-block-img{
+        margin-bottom: 330px;
+    }
+}
